@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dc-develops
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning ICT
-- 💞️ I’m looking to collaborate on a group project
+- 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me (damanichambers18@gmail.com)
 
 <!---
